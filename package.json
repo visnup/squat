@@ -1,0 +1,15 @@
+{
+  "name": "squat",
+  "version": "0.0.0",
+  "description": "Squat on an npm module name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": { "squat": "./cli.js" },
+  "author": "Visnu Pitiyanuvath <visnupx@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "*"
+  }
+}
